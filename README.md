@@ -27,7 +27,7 @@ Note:
 
 
 # cite
->
+```
 @inproceedings{
 ma2023federated,
 title={Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs},
@@ -36,4 +36,4 @@ booktitle={The 39th Conference on Uncertainty in Artificial Intelligence},
 year={2023},
 url={https://openreview.net/forum?id=gSMiXJmMEOf}
 }
->
+```
